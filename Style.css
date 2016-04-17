@@ -1,0 +1,73 @@
+.nav a {
+  color: #0080FF;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.nav li {
+  display: inline;
+}
+
+
+//*-------------------------------*//
+
+.b .container {
+  background-color: #ffffff;
+}
+
+.b .container  h3 {
+  font-size: 18px;
+  text-align: center;
+  font-family: "Helvetica",sans-serif
+}
+
+.b .container  a {
+  color: #00b0ff;
+}
+
+.b .container  h2 {
+	font-size:21.5px;
+	color:#393c3d;
+}
+
+.b .container  span {
+	font-size:14px;
+}
+.b .container  p {
+	font-size:16px;
+}
+//*-------------------------------*//
+
+.a .container {
+    background-color:#ffffff;
+
+}
+.a .container  h2 {
+    color:#393c3d;
+    font-size:21.5px;
+}
+.a .container  p {
+    font-size:16px;
+    margin-bottom:13px;
+}
+
+
+.a .container  img {
+	margin-left:40px;
+}
+.a .container table {
+	font-size : 18px
+}
+//*-------------------------------*//
+
+.btn-xxl {
+	font-size: 35px;
+	text-align:center;
+	margin-left:475
+}
+
+//*-------------------------------*//
+
+.
