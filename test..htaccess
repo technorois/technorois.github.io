@@ -1,0 +1,2 @@
+-RewriteCond %{HTTP_USER_AGENT} "ipod|iphone|ipad|android|palm|googlebot-mobile" [NC]          
+ -RewriteRule (.*) http://m.technorois.ca [R=301,L]  
